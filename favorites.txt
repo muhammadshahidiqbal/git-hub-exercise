@@ -1,3 +1,10 @@
+Foods
 grren peas
 cauliflower
 cabbage
+Movies
+gladiator
+matrix
+wolf
+tiger
+lion
